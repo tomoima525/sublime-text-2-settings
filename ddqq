@@ -1,0 +1,26 @@
+diff --git a/Default (Linux).sublime-keymap b/Default (Linux).sublime-keymap
+index 37b2653..3d02e17 100644
+--- a/Default (Linux).sublime-keymap	
++++ b/Default (Linux).sublime-keymap	
+@@ -1,6 +1,6 @@
+ [
+ {
+-	"keys": ["ctrl+shift+r"], "command": "browser_refresh", "args": {
++	"keys": ["ctrl+s"], "command": "browser_refresh", "args": {
+ 		"auto_save": true,
+ 		"delay": 0.5,
+ 		"activate_browser": true,
+diff --git a/Package Control.sublime-settings b/Package Control.sublime-settings
+index 82937b5..c7694d1 100644
+--- a/Package Control.sublime-settings	
++++ b/Package Control.sublime-settings	
+@@ -5,7 +5,9 @@
+ 		"HTML5",
+ 		"jQuery",
+ 		"JsFormat",
++		"LESS-build",
+ 		"Package Control",
++		"SublimeOnSaveBuild",
+ 		"Twitter Bootstrap Snippets"
+ 	]
+ }

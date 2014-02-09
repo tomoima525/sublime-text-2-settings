@@ -1,6 +1,6 @@
 [
 {
-	"keys": ["ctrl+shift+r"], "command": "browser_refresh", "args": {
+	"keys": ["ctrl+s"], "command": "browser_refresh", "args": {
 		"auto_save": true,
 		"delay": 0.5,
 		"activate_browser": true,
